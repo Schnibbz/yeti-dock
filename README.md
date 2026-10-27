@@ -57,7 +57,21 @@ Bolts to the face of the base bracket with 8 M4 screws from inside the bracket. 
 ## Order the steel
 
 Upload the DXF(s) to a laser-cut-and-bend shop (it was made at OSH Cut). ¼" (6.35 mm) A36 or HRPO, inside bend radius 4.0 mm.
-Don't pay for the shop's tapping: you drill and tap the holes yourself.
+
+- **No tapping from the shop.** Several of the tapped holes sit too close to the bends for the shop to tap them, so you'd be
+  drilling and tapping some of them yourself anyway. Do all of them yourself; it's the same job either way.
+- **No coating from the shop.** Drilling and tapping by hand means clamping, chips and cutting oil on the part, which marks a
+  fresh finish. Finish it after the holes are done.
+- **Ask for a tumbled (deburred) finish** if the shop offers it. That's the cleanest starting point for either finish below.
+
+## Finish (after drilling and tapping)
+
+| Option | How |
+|---|---|
+| **Clear coat** (simplest) | Order it tumbled, drill and tap, degrease, spray clear lacquer. Raw steel look. |
+| **Powder coat** | Drill and tap first, then take it to a local powder coater. Ask them to plug or mask the tapped holes and the pin holes, or run the taps back through after. |
+
+The pictured bracket was powder coated locally after it was drilled and tapped.
 
 ## Build it
 

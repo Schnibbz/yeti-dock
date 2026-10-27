@@ -6,6 +6,8 @@
 
 ## 1. Drill out the tapped holes, then tap
 
+Do this **before any coating**, and do all of the holes yourself: several sit too close to the bends for the shop to tap.
+
 The shop cuts every tapped hole **undersize on purpose**. A laser leaves a thin, hardened skin on the wall of every hole. Tap
 straight into that and the tap grinds, binds and breaks. Drilling the hole out one size first cuts the skin away, and the tap
 then runs like it's in mild steel.
@@ -63,14 +65,21 @@ straight pull-away. ~55 lb.
 
 **Not load-tested.** These are calculations, not a pull test. Inspect the screws and the pin before every session.
 
-## 3. Print the pads
+## 3. Finish the steel
+
+After drilling and tapping, not before.
+- **Clear coat:** start from a tumbled part, degrease, spray clear lacquer.
+- **Powder coat:** take it to a local coater. Have them plug or mask the tapped holes and the pin holes, or chase the threads with
+  the taps afterwards.
+
+## 4. Print the pads
 
 PETG, **counterbore side up**, 0.2 mm layers, 6 walls, 40 % infill, no supports.
 
 - `pads/yeti-dock-pad-set.stl`: one centre pad (7.75 mm) + two side pads (6.60 mm). About 2 hours, 65 g.
 - The centre pad sets the preload. If the pin won't slide through with 7.75, print `yeti-dock-web-pad-7.10.stl`.
 
-## 4. Hardware
+## 5. Hardware
 
 **Base bracket**
 
@@ -89,17 +98,17 @@ PETG, **counterbore side up**, 0.2 mm layers, 6 walls, 40 % infill, no supports.
 3/8" is the longest #10-24 that won't poke through the far side of the steel with these pads. Check yours finish flush or short
 before the dock goes on.
 
-## 5. Put it together
+## 6. Put it together
 
 **Base bracket (flat dock)**
-1. Drill and tap the bracket's 8 holes (step 1). Clean out the chips and oil.
+1. Drill and tap the bracket's 8 holes (step 1), then finish the steel (step 3).
 2. Screw the two side pads and the centre pad in, counterbores facing the rack. Snug, don't crush the PETG.
 3. Bolt the dock to the bracket face. The 8-hole pattern lets you clock it 0° or 90°.
 4. Slide the bracket over the upright, line it up with the hole, and push the pin all the way through. It should slide in by
    hand and the bracket shouldn't rock. If it rocks, the centre pad is too thin; if the pin won't go, it's too thick.
 
 **With the 45° adapter**
-1. Drill and tap the bracket's 8 holes and the adapter's 8 holes (step 1).
+1. Drill and tap the bracket's 8 holes and the adapter's 8 holes (step 1), then finish both (step 3).
 2. Fit the pads as above.
 3. Bolt the adapter to the outside face of the bracket with the 8 M4 screws, from inside the bracket. The heads sit in the
    centre pad's clearance holes, so do this before the bracket goes on the rack.
