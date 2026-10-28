@@ -74,9 +74,9 @@ After drilling and tapping, not before.
 
 ## 4. Print the pads
 
-PETG, **counterbore side up**, 0.2 mm layers, 6 walls, 40 % infill, no supports.
+PETG, **counterbore side up**, 0.2 mm layers, **100 % infill (solid)**, 5 walls, no supports. They're bearing parts: print them solid.
 
-- `pads/yeti-dock-pad-set.stl`: one centre pad (7.75 mm) + two side pads (6.60 mm). About 2 hours, 65 g.
+- `pads/yeti-dock-pad-set.stl`: one centre pad (7.75 mm) + two side pads (6.60 mm). About 2 h 15 m, 80 g.
 - The centre pad sets the preload. If the pin won't slide through with 7.75, print `yeti-dock-web-pad-7.10.stl`.
 
 ## 5. Hardware
