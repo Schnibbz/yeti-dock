@@ -28,7 +28,8 @@ through the bracket and the upright's hole, and the dock bolts to its face.
 |---|---|
 | [`bracket/yeti-dock-bracket-rev2-0.250-A36.dxf`](bracket) | **Order this.** Flat pattern for a laser + bend shop |
 | [`bracket/yeti-dock-bracket-rev2.step`](bracket) | 3D reference |
-| [`pads/yeti-dock-pad-set.stl`](pads) | The PETG pads: centre pad 7.75 mm + 2 side pads (also single pads and a 7.10 mm centre pad) |
+| [`pads/yeti-dock-pad-set-X1C-PETG.gcode.3mf`](pads) | **The PETG pads, ready to print** on a Bambu X1/P1 (solid, 100 % infill) |
+| [`pads/yeti-dock-pad-set.stl`](pads) | Same pads for any slicer: centre pad 7.75 mm + 2 side pads (also single pads and a 7.10 mm centre pad). **Print solid.** |
 
 | Qty | Hardware |
 |---|---|
